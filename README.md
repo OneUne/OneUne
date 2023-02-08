@@ -1,18 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=150&section=header&text=OneUne's%20Github&fontSize=40%&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=150&section=header&text=Hello,%20Uni's%20World&fontSize=40%&fontColor=black)
 
 # Git Status ❓
 ![OneUne's github stats](https://github-readme-stats.vercel.app/api?username=OneUne&show_icons=true)
 [![OneUne's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OneUne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/OneUne)
 
 # Tech Stack 💻
-![image](https://user-images.githubusercontent.com/61937858/109414347-c8ef3380-79f5-11eb-82b5-220d4277c287.png)
-![image](https://user-images.githubusercontent.com/61937858/109414349-cab8f700-79f5-11eb-9820-b827804c6290.png)
-![image](https://user-images.githubusercontent.com/61937858/109414354-d0164180-79f5-11eb-81ca-23c50cdee155.png)
-![image](https://user-images.githubusercontent.com/61937858/109414357-d3a9c880-79f5-11eb-94f2-021cbe022df0.png)
-![image](https://user-images.githubusercontent.com/61937858/109414360-d4daf580-79f5-11eb-8e04-9108cbb0f9ad.png)
-![image](https://user-images.githubusercontent.com/61937858/109414366-d6a4b900-79f5-11eb-812e-934a88530118.png)
-![image](https://user-images.githubusercontent.com/61937858/109414408-1a97be00-79f6-11eb-86cd-1f8c4c17fb83.png)
-![image](https://user-images.githubusercontent.com/61937858/109414402-0a7fde80-79f6-11eb-8658-9f5cf5c0ad26.png)
+
+<div>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+ <img src="https://img.shields.io/badge/ASP-D0271D?style=for-the-badge&logo=ASP&logoColor=white">
+ <img src="https://img.shields.io/badge/ASP.NET-005AF0?style=for-the-badge&logo=ASP.NET&logoColor=white">
+ <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+ <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white">
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+</div>
 <br><br>
 
 # Problem Solving 👩‍💻
